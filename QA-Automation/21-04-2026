@@ -1,0 +1,6 @@
+Day- 75 
+Key Challenges & Solutions
+1. LLM-Based Content Evaluation (Hardik)
+The team struggled with evaluating content shared by the Yolearn platform. The solution was to use LLM Evaluate by first extracting/capturing the relevant data and then applying the LLM evaluate action — enabling intelligent content validation beyond traditional methods.
+2. Handling Dynamic Sliders (Hardik)
+Dynamic sliders on the Yolearn platform caused instability in test flows. This was resolved by using a hover action to temporarily freeze the dynamic motion, then cropping the required image. The key insight: hover over sections that don't move dynamically.
